@@ -1,0 +1,47 @@
+{
+    "Campaign ID": {
+        "url": "/reservation/v22",
+        "method": "GET",
+        "query": {
+            "not_modified_since": "1970-01-01T00:00:00",
+            "domain_id": 0,
+            "current_only": false,
+            "reservation_id": 0
+        }
+    },
+    "Player ID": {
+        "url": "/host/v17",
+        "method": "GET",
+        "query": {
+            "not_modified_since": "1970-01-01T00:00:00",
+            "container_id": 0,
+            "domain_id": 0
+        }
+    },
+    "Display Unit ID": {
+        "url": "/display_unit/v12",
+        "method": "GET",
+        "query": {
+            "not_modified_since": "1970-01-01T00:00:00",
+            "container_id": 0,
+            "domain_id": 0
+        }
+    },
+    "Frame ID": {
+        "url": "/skin/v7",
+        "method": "GET",
+        "query": {
+            "not_modified_since": "1970-01-01T00:00:00",
+            "domain_id": 0
+        }
+    },
+    "Ad Copy ID": {
+        "url": "/content/v11",
+        "method": "GET",
+        "query": {
+            "not_modified_since": "1970-01-01T00:00:00",
+            "domain_id": 0
+        }
+    }
+}
+    

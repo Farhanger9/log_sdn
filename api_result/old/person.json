@@ -1,0 +1,47 @@
+{
+    "not_modified_since": "2023-03-16T22:08:29Z",
+    "person": [
+        {
+            "active": true,
+            "address": "",
+            "company": "Maverick Gardner",
+            "container_id": 0,
+            "domain_id": 595840249,
+            "email": "mgbcaops@maverickgardner.com",
+            "id": 708029097,
+            "name": "MG BCA Ops",
+            "phone": "",
+            "phone_ext": " ",
+            "timezone": "",
+            "type": 13
+        },
+        {
+            "active": true,
+            "address": "",
+            "company": "Maverick Gardner",
+            "container_id": 0,
+            "domain_id": 595840249,
+            "email": "mgbsadops@maverickgardner.com",
+            "id": 727069000,
+            "name": "MG Ad Ops",
+            "phone": "",
+            "phone_ext": " ",
+            "timezone": "",
+            "type": 13
+        },
+        {
+            "active": true,
+            "address": "",
+            "company": "Broadsign Inc.",
+            "container_id": 0,
+            "domain_id": 595840249,
+            "email": "",
+            "id": 646868719,
+            "name": "Broadsign Philip",
+            "phone": "",
+            "phone_ext": " ",
+            "timezone": "America/New_York",
+            "type": 9
+        }
+    ]
+}
